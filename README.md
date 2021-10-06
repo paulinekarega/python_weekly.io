@@ -1,4 +1,4 @@
-## Welcome to Python Weekly
+## About
 
 In this website, I do python challenges from HackeRank and Codewars and post them to this shared repository. The goal is to advance in python and Data science so look forward to additional content including Machine Learning.
 
